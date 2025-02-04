@@ -26,6 +26,7 @@
 body{
     font-size: 1.2rem;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 0.1rem !important;
     
 }
 .hero::before{
@@ -525,7 +526,9 @@ footer li{
     html{
         font-size: 55%;
     }
-
+    .mynavbar .offcanvas{
+        width: 150px;
+    }
     .timeline li .timeline-image{
         width: 80px;
         height: 80px;
