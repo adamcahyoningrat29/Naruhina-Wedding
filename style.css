@@ -565,4 +565,7 @@ footer li{
     main h1{
         font-size: 2.9rem;
     }
+     .timeline li .timeline-panel{
+         width: 55%;
+     }
 }
